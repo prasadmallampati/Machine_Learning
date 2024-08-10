@@ -2,7 +2,7 @@
 		        Machine Learning 
 
 1.	What is Machine Learning (ML)?
-2.	
+
 a.	Ml stands for “Machine Learning “.
 
 b.	It’s a branch of Artificial Intetiligence (AI) that focus on developing algorithms that allow system to learn from and make predictions or decisions based on data.
