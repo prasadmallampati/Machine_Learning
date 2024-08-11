@@ -1,0 +1,24 @@
+         Types of ML
+Day_2
+Machine Learning (ML) is a subset of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions based on data. Instead of being explicitly programmed with a fixed set of rules, ML algorithms identify patterns and relationships within data to make predictions, classify information, or make decisions.
+Types of Machine Learning
+1.	Supervised Learning:
+o	Definition: In supervised learning, the model is trained on a labeled dataset, which means that the input data is paired with the correct output. The model learns to map inputs to the correct outputs based on the examples it is given.
+o	Types of Supervised Learning :
+	Classification: Predicting whether an email is spam or not (binary classification), classifying images of animals (multi-class classification).
+	Regression: Predicting house prices based on features like size, location, etc.
+2.	Unsupervised Learning:
+o	Definition: In unsupervised learning, the model is trained on data without labeled responses. The goal is to infer the natural structure present within a set of data points.
+o	Types of unsupervised learning :
+	Clustering: Grouping customers with similar behavior for targeted marketing.
+	Dimensionality Reduction: Reducing the number of variables under consideration (e.g., PCA).
+	Association
+3.	Semi-Supervised Learning:
+o	Definition: Semi-supervised learning is a blend of supervised and unsupervised learning. The model is trained on a small amount of labeled data and a large amount of unlabeled data.
+o	Examples: Webpage classification, where only a few pages are labeled, and the rest are unlabeled.
+4.	Reinforcement Learning:
+o	Definition: Reinforcement learning involves training models to make sequences of decisions. The model learns by interacting with an environment and receiving rewards or penalties.
+o	Examples:
+	Game playing: Alpha Go, training an agent to play video games.
+	Robotics: Teaching a robot to walk.
+
